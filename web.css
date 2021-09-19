@@ -1,0 +1,20 @@
+html {background: url(portfolio.jpg) no-repeat center center fixed; 
+  	 -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+  	 -o-background-size: cover;
+  	 background-size: cover;
+}
+
+h1 {padding: 10px 16px;
+  	background: #0000ff;
+  	font-size: 100px;
+  	font-family:"courier";
+  	}
+
+h2 {font-family: "Verdana";
+	color: #ffffff;
+	}
+
+h4 {font-family: "Verdana";
+	color: #ffffff;
+	}
